@@ -9,3 +9,14 @@ C:\Users\user\AppData\Local\Temporary Projects\Popstaff\obj\Debug\Popstaff.exe
 C:\Users\user\AppData\Local\Temporary Projects\Popstaff\obj\Debug\Popstaff.xml
 C:\Users\user\AppData\Local\Temporary Projects\Popstaff\obj\Debug\Popstaff.pdb
 C:\Users\user\AppData\Local\Temporary Projects\Popstaff\obj\Debug\Popstaff.AboutBox1.resources
+C:\Users\user\Documents\Visual Studio 2013\Projects\Popstaff\Popstaff\bin\Debug\Popstaff.exe.config
+C:\Users\user\Documents\Visual Studio 2013\Projects\Popstaff\Popstaff\obj\Debug\Popstaff.exe
+C:\Users\user\Documents\Visual Studio 2013\Projects\Popstaff\Popstaff\obj\Debug\Popstaff.xml
+C:\Users\user\Documents\Visual Studio 2013\Projects\Popstaff\Popstaff\obj\Debug\Popstaff.pdb
+C:\Users\user\Documents\Visual Studio 2013\Projects\Popstaff\Popstaff\bin\Debug\Popstaff.exe
+C:\Users\user\Documents\Visual Studio 2013\Projects\Popstaff\Popstaff\bin\Debug\Popstaff.pdb
+C:\Users\user\Documents\Visual Studio 2013\Projects\Popstaff\Popstaff\bin\Debug\Popstaff.xml
+C:\Users\user\Documents\Visual Studio 2013\Projects\Popstaff\Popstaff\obj\Debug\Popstaff.AboutBox1.resources
+C:\Users\user\Documents\Visual Studio 2013\Projects\Popstaff\Popstaff\obj\Debug\Popstaff.Form1.resources
+C:\Users\user\Documents\Visual Studio 2013\Projects\Popstaff\Popstaff\obj\Debug\Popstaff.Resources.resources
+C:\Users\user\Documents\Visual Studio 2013\Projects\Popstaff\Popstaff\obj\Debug\Popstaff.vbproj.GenerateResource.Cache
