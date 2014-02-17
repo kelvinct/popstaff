@@ -1,0 +1,27 @@
+<?xml version="1.0" standalone="yes"?>
+<staff xmlns="http://tempuri.org/staff.xsd">
+  <staff>
+    <ID>0</ID>
+    <name>Kelvinl</name>
+    <namechn>劉振東</namechn>
+    <PCIP>192.168.000.156</PCIP>
+    <OfficeEmail>kelvinl@infocenter.com.hk</OfficeEmail>
+    <Email>kelvinl@infocenter.com.hk</Email>
+    <Phone>(852)9860-0473</Phone>
+    <AccessID>33154</AccessID>
+    <Ext_No>(28)</Ext_No>
+    <Location>Yeun Long</Location>
+  </staff>
+  <staff>
+    <ID>1</ID>
+    <name>ALEX Leung Kam Fai</name>
+    <namechn>梁錦輝</namechn>
+    <PCIP>192.168.000.171</PCIP>
+    <OfficeEmail>alexleung@infoenter.com.hk</OfficeEmail>
+    <Email>appleteae-pop@yahoo.com.hk</Email>
+    <Phone>(852)6826-0135</Phone>
+    <AccessID>33155</AccessID>
+    <Ext_No>(16)</Ext_No>
+    <Location>Tuen Mun</Location>
+  </staff>
+</staff>
