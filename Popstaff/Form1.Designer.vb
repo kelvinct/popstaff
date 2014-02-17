@@ -68,8 +68,10 @@ Partial Class Form1
         Me.OfficeEmailTextBox = New System.Windows.Forms.TextBox()
         Me.Email1TextBox = New System.Windows.Forms.TextBox()
         Me.MenuStrip1 = New System.Windows.Forms.MenuStrip()
+        Me.RESTOREToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
         Me.ToolStripMenuItem1 = New System.Windows.Forms.ToolStripMenuItem()
         Me.Panel1 = New System.Windows.Forms.Panel()
+        Me.Button1 = New System.Windows.Forms.Button()
         IDLabel = New System.Windows.Forms.Label()
         NameLabel = New System.Windows.Forms.Label()
         NamechnLabel = New System.Windows.Forms.Label()
@@ -257,7 +259,7 @@ Partial Class Form1
         Me.StaffBindingNavigator.MovePreviousItem = Me.BindingNavigatorMovePreviousItem
         Me.StaffBindingNavigator.Name = "StaffBindingNavigator"
         Me.StaffBindingNavigator.PositionItem = Me.BindingNavigatorPositionItem
-        Me.StaffBindingNavigator.Size = New System.Drawing.Size(768, 35)
+        Me.StaffBindingNavigator.Size = New System.Drawing.Size(773, 35)
         Me.StaffBindingNavigator.TabIndex = 0
         Me.StaffBindingNavigator.Text = "BindingNavigator1"
         '
@@ -490,12 +492,19 @@ Partial Class Form1
         '
         'MenuStrip1
         '
-        Me.MenuStrip1.Items.AddRange(New System.Windows.Forms.ToolStripItem() {Me.ToolStripMenuItem1})
+        Me.MenuStrip1.Items.AddRange(New System.Windows.Forms.ToolStripItem() {Me.RESTOREToolStripMenuItem, Me.ToolStripMenuItem1})
         Me.MenuStrip1.Location = New System.Drawing.Point(0, 0)
         Me.MenuStrip1.Name = "MenuStrip1"
-        Me.MenuStrip1.Size = New System.Drawing.Size(768, 35)
+        Me.MenuStrip1.Size = New System.Drawing.Size(773, 35)
         Me.MenuStrip1.TabIndex = 32
         Me.MenuStrip1.Text = "MenuStrip1"
+        '
+        'RESTOREToolStripMenuItem
+        '
+        Me.RESTOREToolStripMenuItem.Font = New System.Drawing.Font("微軟正黑體", 15.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(136, Byte))
+        Me.RESTOREToolStripMenuItem.Name = "RESTOREToolStripMenuItem"
+        Me.RESTOREToolStripMenuItem.Size = New System.Drawing.Size(118, 31)
+        Me.RESTOREToolStripMenuItem.Text = "RESTORE "
         '
         'ToolStripMenuItem1
         '
@@ -507,6 +516,7 @@ Partial Class Form1
         '
         'Panel1
         '
+        Me.Panel1.Controls.Add(Me.Button1)
         Me.Panel1.Controls.Add(Me.IDTextBox)
         Me.Panel1.Controls.Add(Email1Label)
         Me.Panel1.Controls.Add(Me.LocationTextBox)
@@ -540,9 +550,19 @@ Partial Class Form1
         Me.Panel1.Size = New System.Drawing.Size(754, 558)
         Me.Panel1.TabIndex = 38
         '
+        'Button1
+        '
+        Me.Button1.Location = New System.Drawing.Point(583, 301)
+        Me.Button1.Name = "Button1"
+        Me.Button1.Size = New System.Drawing.Size(75, 23)
+        Me.Button1.TabIndex = 38
+        Me.Button1.Text = "Button1"
+        Me.Button1.UseVisualStyleBackColor = True
+        Me.Button1.Visible = False
+        '
         'Form1
         '
-        Me.ClientSize = New System.Drawing.Size(768, 643)
+        Me.ClientSize = New System.Drawing.Size(773, 643)
         Me.Controls.Add(Me.Panel1)
         Me.Controls.Add(Me.StaffBindingNavigator)
         Me.Controls.Add(Me.MenuStrip1)
@@ -595,6 +615,8 @@ Partial Class Form1
     Friend WithEvents MenuStrip1 As System.Windows.Forms.MenuStrip
     Friend WithEvents ToolStripMenuItem1 As System.Windows.Forms.ToolStripMenuItem
     Friend WithEvents Panel1 As System.Windows.Forms.Panel
+    Friend WithEvents Button1 As System.Windows.Forms.Button
+    Friend WithEvents RESTOREToolStripMenuItem As System.Windows.Forms.ToolStripMenuItem
 
 
 End Class
