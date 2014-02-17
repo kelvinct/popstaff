@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<staff xmlns="http://tempuri.org/staff.xsd">
+  <staff>
+    <ID>0</ID>
+    <name>Kelvinl</name>
+    <namechn>kelvinlau</namechn>
+    <PCIP>192.168.000.156</PCIP>
+    <OfficeEmail>kelvinl@infocenter.com.hk</OfficeEmail>
+    <Email>kelvinl@infocenter.com.hk</Email>
+    <AccessID>33154</AccessID>
+    <Ext_No>(28)</Ext_No>
+    <Location>Yeun Long</Location>
+  </staff>
+</staff>
